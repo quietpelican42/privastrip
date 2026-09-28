@@ -1,0 +1,8 @@
+*.test
+*.out
+coverage.txt
+coverage.html
+/dist/
+/privastrip
+/cmd/privastrip/privastrip
+/testdata/realworld/
