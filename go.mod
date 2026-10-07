@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/privastrip
+module github.com/quietpelican42/privastrip
 
 go 1.25

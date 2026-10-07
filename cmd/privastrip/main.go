@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	privastrip "github.com/__GH_OWNER__/privastrip"
+	privastrip "github.com/quietpelican42/privastrip"
 )
 
 func main() {

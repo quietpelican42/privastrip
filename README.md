@@ -64,7 +64,7 @@ the same test, via `image/jpeg` decode and per-pixel comparison).
 ## Installation
 
 ```sh
-go get github.com/__GH_OWNER__/privastrip
+go get github.com/quietpelican42/privastrip
 ```
 
 Go 1.25 or later. No runtime dependencies. A CLI is included at
